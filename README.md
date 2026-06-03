@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28572583/README.md)
 # Golang Performance Benchmark — F1 Edition
 
 ![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go&logoColor=white)
