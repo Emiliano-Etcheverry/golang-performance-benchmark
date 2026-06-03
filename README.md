@@ -166,11 +166,11 @@ golang-performance-benchmark/
 
 ## Roadmap
 
-- [ ] Add benchmark for `errgroup` concurrency pattern
-- [ ] Add CPU and memory profiling with `pprof`
-- [ ] Interactive visualization dashboard (e.g. with Plotly or Streamlit)
-- [ ] Configurable benchmark parameters via CLI flags instead of hardcoded values
-- [ ] Add support for multiple runs per configuration and report averages + standard deviation
+ Add benchmark for `errgroup` concurrency pattern
+- Add CPU and memory profiling with `pprof`
+- Interactive visualization dashboard (e.g. with Plotly or Streamlit)
+- Configurable benchmark parameters via CLI flags instead of hardcoded values
+- Add support for multiple runs per configuration and report averages + standard deviation
 
 ---
 
