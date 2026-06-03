@@ -90,8 +90,6 @@ cd golang-performance-benchmark
 pip install pandas matplotlib
 ```
 
-No additional Go dependencies are required — the project uses only the standard library.
-
 ---
 
 ## Usage
@@ -107,7 +105,7 @@ This will process the races across all configured year ranges and worker counts,
 - `data/tiempos.csv` — timing results for all four strategies
 - `data/workers.csv` — timing results per worker count
 
-Expected output:
+Expected output example:
 ```
 Carreras: 100 | Workers: 1 | Tiempo: 12ms
 Carreras: 100 | Workers: 2 | Tiempo: 8ms
@@ -179,26 +177,10 @@ golang-performance-benchmark/
 
 ---
 
-## Contributing
-
-Contributions are welcome. To contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-Please keep code style consistent with the existing codebase and add comments in Spanish as the rest of the project does.
-
----
-
-## Authors
+## Author
 
 **Emiliano Etcheverry**
-
 - [Portfolio](https://emiliano-etcheverry.github.io/emiliano.etcheverry-portfolio)
-- [GitHub](https://github.com/Emiliano-Etcheverry)
 
 ---
 
