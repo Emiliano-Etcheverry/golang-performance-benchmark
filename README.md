@@ -17,6 +17,7 @@ Benchmark of four concurrency models in Go — sequential, parallel (goroutine p
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Roadmap](#roadmap)
+- [Author](#autor)
 - [License](#license)
 
 ---
